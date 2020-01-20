@@ -23,3 +23,8 @@ inference faster than 198ms per picture average in 100 images.
 
 ## 3.Requirements
 Need pytorch v1.0
+
+
+
+
+Thanks to this [repo](https://github.com/chenyuntc/simple-faster-rcnn-pytorch) from chenyuntc, which helps me a lot in this reproduction.
